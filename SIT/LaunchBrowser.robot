@@ -11,6 +11,9 @@ Custom Test SetUp
 Custom Test TearDown
     Run Keyword If Test Failed    Capture Page Screenshot    
     Run Keyword If Test Passed    Close All Browsers    
+    
+temp
+    log    log
 
 *** Test Cases ***
 Launch Chrome Browser
