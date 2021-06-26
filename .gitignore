@@ -1,4 +1,4 @@
 /libspecs/
-/*.html
+*.html
 /output.xml
-/*.png
+*.png
