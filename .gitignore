@@ -2,3 +2,5 @@
 *.html
 /output.xml
 *.png
+/results
+
